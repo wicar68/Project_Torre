@@ -1,5 +1,5 @@
 First Step
 Data extraction:
-https://bio.torre.co/api/bios/caioviniciusbatistamartins (saved as username.txt)
+https://bio.torre.co/api/bios/caioviniciusbatistamartins (saved as username.json)
 and
-https://torre.co/api/opportunities/JWO8X4wQ (saved as id.txt)
+https://torre.co/api/opportunities/JWO8X4wQ (saved as id.json)
